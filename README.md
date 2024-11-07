@@ -1,2 +1,4 @@
 ## Sebastián Salazar Solano
-6/11/2024 - 18:35
+06/11/2024 - 18:35
+
+Calidad de software, Prueba de GitHub
